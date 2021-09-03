@@ -1,0 +1,18 @@
+.navIndex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 100vh;
+}
+
+.navegador {
+    padding: 30px;
+    margin: 10px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.navegador:hover {
+    color: #434343;
+}
